@@ -25,7 +25,3 @@ Citation
 - Details of the final publication will be added here upon acceptance.
 
 Refer to Final_List.xlsx for the full list.
-
-Acknowledgements
-
-- This project is part of a broader research initiative on Decentralized AI and Privacy-Preserving Systems. Contributions are welcome from the academic, developer, and open research communities.
