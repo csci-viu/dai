@@ -1,1 +1,1 @@
-# dai
+# DAI (Decentralized AI)
