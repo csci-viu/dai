@@ -238,8 +238,11 @@ Unless explicitly stated otherwise, publication content remains subject to the c
 ## Contact
 
 **Ajay Kumar Shrestha**
+
 Department of Computer Science
+
 Vancouver Island University
+
 Nanaimo, British Columbia, Canada
 
 Research interests: decentralized AI, federated learning, blockchain, trust and incentive mechanisms, privacy, security, and AI governance.
